@@ -1,0 +1,16 @@
+PRESENTE PARA LAURA — DOCUMENTAÇÃO ORIGINAL PRESERVADA
+
+O repositório original também continha este arquivo de instruções. Ele foi mantido como documentação histórica. Para a estrutura e pendências da versão atualizada, consulte README.md.
+
+PUBLICAÇÃO NO GITHUB PAGES
+1. Faça backup do repositório antes de substituir qualquer arquivo.
+2. Extraia o ZIP completo.
+3. Envie os arquivos para a raiz da branch publicada no GitHub Pages.
+4. Mantenha os nomes dos arquivos locais exatamente como estão.
+5. Faça commit e aguarde a atualização do GitHub Pages.
+
+NOTAS HISTÓRICAS
+- O player de Boy In Luv usa o embed oficial do Spotify.
+- A trilha ambiente fica fora das seções para continuar durante a navegação e só começa após interação da visitante.
+- As imagens locais usam caminhos relativos, compatíveis com GitHub Pages.
+- A linha do tempo não atribui datas ou eventos cronológicos; organiza informações fornecidas.
