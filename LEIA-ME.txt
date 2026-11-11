@@ -1,0 +1,20 @@
+PRESENTE PARA LAURA — VERSÃO REFORMULADA
+
+Arquivos:
+- index.html
+- bts-laura.jpg
+- 168812.jpg, 168813.jpg, 168814.jpg, 168816.jpg (fotografias reais da Ayasha)
+- trilha-original.wav (instrumental original criado para este projeto)
+
+PUBLICAÇÃO NO GITHUB PAGES
+1. Extraia este ZIP.
+2. Envie TODOS os arquivos para a raiz do repositório ruanvczx-boop/presente-Laura.
+3. Substitua o index.html antigo e mantenha os nomes dos arquivos de imagem/áudio exatamente iguais.
+4. Faça Commit changes e aguarde a atualização do GitHub Pages.
+
+NOTAS
+- O player de Boy In Luv usa o embed oficial do Spotify.
+- A trilha ambiente só começa quando a visitante toca no botão, respeitando as restrições de autoplay dos navegadores. Ela continua ao navegar entre as seções porque o áudio fica fora delas.
+- As imagens são locais e relativas, compatíveis com GitHub Pages.
+- O carro é uma ilustração vetorial decorativa criada no próprio HTML.
+- A linha do tempo não atribui datas ou eventos cronológicos; organiza apenas informações fornecidas.
