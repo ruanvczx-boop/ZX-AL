@@ -1,0 +1,11 @@
+ADICAO: SECAO DE MOTOS E CARROS
+
+Foi adicionada a seção "Entre duas e quatro rodas" antes da surpresa final, sem alterar o texto da declaração final nem remover as seções existentes.
+
+Fontes dos sons:
+- Yamaha YZF-R15: gravação real incorporada do vídeo referenciado pelo TMCBlog (https://tmcblog.com/2014/04/26/video-suara-idle-yamaha-yzf-r15/).
+- Yamaha YZF-R1: página oficial da Yamaha com gravações reais da YZF-R1 e VMAX (https://global.yamaha-motor.com/showroom/tokyooverride/sound.html).
+- Nissan Skyline R34: gravação de motor/escapamento disponibilizada no Wikimedia Commons, com licença CC BY 3.0; créditos a ApelSINKA. (https://commons.wikimedia.org/wiki/File:Nissan_Skyline_R34_-_engine_and_exhaust_sound_(YouTube_2L4tuUZNQ_Q).opus)
+- Dodge Charger R/T 1970: vídeo de som do carro original citado na página Turbo & Stance (https://www.turboandstance.net/the-fast-and-the-furious-1970-dodge-charger-r-t-dominic-torettos-original-car-engine-sound/).
+
+Os áudios não iniciam automaticamente. A execução depende dos serviços externos e da conexão com a internet.
