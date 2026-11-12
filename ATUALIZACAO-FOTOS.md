@@ -1,0 +1,1 @@
+Atualização: substituídas imagens de pastel, acarajé e chocolate pelas fotos fornecidas; adicionada segunda foto de chocolates; incluídos escudo e torcida do Santa Cruz. Restante do projeto mantido. Reprodução Spotify não testada em navegador.
